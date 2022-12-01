@@ -1,0 +1,29 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+}
+
+.example-full-width {
+    width: 100%;
+}
+
+.matcard {
+    width: 50%;
+    margin-left: 25%;
+    align-items: center;
+    margin-top: 2%;
+    padding: 55px;
+}
+
+.matcardtitle {
+    display: block;
+    margin: 0;
+    padding-bottom: 35px;
+}
+
+.example-button-row button {
+    width: 100%;
+    margin-right: 8px;
+    height: 45px
+}
